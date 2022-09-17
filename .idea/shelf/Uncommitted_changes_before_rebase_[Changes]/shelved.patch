@@ -1,0 +1,12 @@
+Index: src/A917.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/A917.java b/src/A917.java
+new file mode 100644
+--- /dev/null	(date 1663420865478)
++++ b/src/A917.java	(date 1663420865478)
+@@ -0,0 +1,2 @@
++public class A917 {
++}
