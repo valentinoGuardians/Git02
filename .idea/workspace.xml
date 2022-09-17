@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ff04284-b27a-4d25-ae1e-18a2e9791e46" name="Changes" comment="M1 A">
-      <change afterPath="$PROJECT_DIR$/src/A917.java" afterDir="false" />
-    </list>
+    <list default="true" id="6ff04284-b27a-4d25-ae1e-18a2e9791e46" name="Changes" comment="917 A6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +46,77 @@
       <option name="presentableId" value="Default" />
       <updated>1662904939952</updated>
     </task>
+    <task id="LOCAL-00001" summary="917 A1">
+      <created>1663421067292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421067292</updated>
+    </task>
+    <task id="LOCAL-00002" summary="917 A1">
+      <created>1663421130289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421130289</updated>
+    </task>
+    <task id="LOCAL-00003" summary="917 A1">
+      <created>1663421139094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421139094</updated>
+    </task>
+    <task id="LOCAL-00004" summary="917 A1">
+      <created>1663421144070</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421144070</updated>
+    </task>
+    <task id="LOCAL-00005" summary="917 A1">
+      <created>1663421149435</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421149435</updated>
+    </task>
+    <task id="LOCAL-00006" summary="917 A1">
+      <created>1663421171474</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421171474</updated>
+    </task>
+    <task id="LOCAL-00007" summary="917 A3">
+      <created>1663421189944</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421189944</updated>
+    </task>
+    <task id="LOCAL-00008" summary="917 A4">
+      <created>1663421212538</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421212538</updated>
+    </task>
+    <task id="LOCAL-00009" summary="917 A4">
+      <created>1663421658779</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421658779</updated>
+    </task>
+    <task id="LOCAL-00010" summary="917 A6">
+      <created>1663421674216</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421674216</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +141,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="917" />
+    <MESSAGE value="917 A1" />
+    <MESSAGE value="917 A3" />
+    <MESSAGE value="917 A4" />
+    <MESSAGE value="917 A6" />
+    <option name="LAST_COMMIT_MESSAGE" value="917 A6" />
   </component>
 </project>
