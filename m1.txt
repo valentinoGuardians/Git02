@@ -1,3 +1,9 @@
+#fix m1.txt
 master m1
+fake L1
 m2
+fake L2
 m3
+fake L3
+fake L4
+>>>>>>> fake
